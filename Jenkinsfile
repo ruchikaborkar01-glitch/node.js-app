@@ -29,4 +29,3 @@ pipeline {
         }
     }
 }
-pipeline for docker build & run containers
