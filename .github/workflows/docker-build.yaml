@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: Project0123/nodejs-app:latest
+          tags: project0123/nodejs-app:latest
